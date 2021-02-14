@@ -1,3 +1,11 @@
-Thank you for checking out my Kahoot Botting Software!
+// Voidware Software.
+// Made by Voidware.
+// V.1 Build.
 
-Note : The software is only avaiable for Windows at the moment but I'm working on creating other options such as Linux.
+// Code is written in JavaScript.
+
+// Note : I didn't make the name bypass script, i got it off youtube.
+
+What is the Kahoot Botting Software?
+
+A software that allows you to bot kahoots.
